@@ -1,0 +1,48 @@
+section{
+    background-color: black;
+    color: white;
+    height: 720px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 12%;
+    color: rgb(18, 18, 134);
+}
+
+h2{
+    text-align: center;
+    padding-top: 2%;
+}
+
+h3{
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.button1{
+    text-align: center;
+    padding: 2%;
+}
+.button2{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.history{
+    text-align: center;
+    padding-top: 3%;
+    font-size: 20px;
+    color: white;
+}
+
+
+.history2{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 1%;
+    padding-bottom: 7%;
+    color:red;
+}
+
